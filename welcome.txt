@@ -8,5 +8,9 @@ This is production Change
 This is staging change
 =======
 Add All Changes 
+<<<<<<< HEAD
 This is staging changes
+>>>>>>> staging
+=======
+This are staging changes
 >>>>>>> staging
